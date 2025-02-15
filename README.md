@@ -207,5 +207,5 @@ This script provides a **comprehensive data pipeline** for retail sales analysis
 ✅ **Exploratory Analysis** – Gives insights into customers, products, and transactions.  
 ✅ **Business Insights** – Identifies top-selling categories, customer behaviors, and revenue trends.  
 
-Would you like any modifications or further breakdowns? 😊
+
 
